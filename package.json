@@ -2,6 +2,9 @@
   "name": "safespace-backend",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "16.1"
+  },
   "type": "module",
   "main": "server.js",
   "keywords": [],
